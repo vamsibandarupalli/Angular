@@ -118,6 +118,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "StartUpProject"
+    }
+  },
+  "defaultProject": "StartUpProject",
+  "cli": {
+    "analytics": "3b2ae146-519c-43ec-83cc-23eba8139215"
+  }
 }
